@@ -1,6 +1,6 @@
 # Android interview questions that I've faced so far or I think is important
 
- > I'm creating this repository after getting rejected from ShareChat
+ > I'm creating this repository after getting rejected from Pendo.io, Herzliya-israel
 
 ## Android Components
 ### Explain briefly all the Android application components
